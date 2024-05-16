@@ -38,3 +38,5 @@ This will combine the images listed in `toolbar.json` into a single PNG image na
 
 ![Toolbar](toolbar.png)
 
+Icons from https://icons8.com/
+
