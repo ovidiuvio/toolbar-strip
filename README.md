@@ -3,6 +3,10 @@ This python script generates a bitmap strip that can be used as a toolbar resour
 
 ![Toolbar](toolbar.png)
 
+![Toolbar](samples/toolbar1.png)
+
+![Toolbar](samples/toolbar2.png)
+
 ### Functionality
 * Loads toolbar definition from a JSON file.
 * Supports processing SVG and other image formats.
