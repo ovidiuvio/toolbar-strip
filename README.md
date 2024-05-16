@@ -7,6 +7,9 @@ This python script generates a bitmap strip that can be used as a toolbar resour
 
 ![Toolbar](samples/toolbar2.png)
 
+### Repo
+https://github.com/ovidiuvio/toolbar-strip.git
+
 ### Functionality
 * Loads toolbar definition from a JSON file.
 * Supports processing SVG and other image formats.
