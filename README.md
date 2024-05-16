@@ -1,5 +1,6 @@
 # Toolbar image strip assembler
 This python script generates a bitmap strip that can be used for Windows toolbars.
+
 ![Toolbar](toolbar.png)
 
 ### Functionality
