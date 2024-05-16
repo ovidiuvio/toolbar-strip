@@ -13,8 +13,8 @@ https://github.com/ovidiuvio/toolbar-strip.git
 ### Functionality
 * Loads toolbar definition from a JSON file.
 * Supports processing SVG and other image formats.
-* Resizes all images to 16x16.
-* Combines the processed images horizontally into a single PNG image strip.
+* Resizes all icons to 16x16.
+* Combines the processed icons horizontally into a single PNG image strip.
 
 ### Usage
 
@@ -37,7 +37,7 @@ Assemble the toolbar strip:
 python3 toolbar.py
 ```
 
-This will combine the images listed in `toolbar.json` into a single PNG image named `toolbar.png`.
+This will combine the icons listed in `toolbar.json` into a single PNG image named `toolbar.png`.
 
 ![Toolbar](toolbar.png)
 
